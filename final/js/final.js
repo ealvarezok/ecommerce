@@ -1,13 +1,5 @@
 'use strict';
 
-/*
- *  Apellido y nombre: Alvarez Edmundo
-*/
-
-/**
- * !ACORTAR CODIGO CHEQUEAR CREACIÓN DE ETIQUETAS
- */
-
 //------------------------FUNCIONES
 let d = document;
 let divProductos = d.querySelector('#productos');
